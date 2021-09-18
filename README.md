@@ -62,9 +62,9 @@ Add the Gitlab VCS provider: [Link](https://www.terraform.io/docs/cloud/vcs/gitl
 *  Add the following variables under the Environment Variables section:
 *  AWS
   *  Key: AWS_ACCESS_KEY_ID
-    *  Value: Access Key
+  *  Value: Access Key
   *  Key: AWS_SECRET_ACCESS_KEY
-    *  Value: Secret Access Key
+  *  Value: Secret Access Key
 
 ## Deployment Process
 
